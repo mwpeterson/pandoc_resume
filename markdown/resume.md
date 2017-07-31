@@ -1,100 +1,98 @@
-Johnny Coder
+Michael Peterson
 ============
-
 ----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Core
+:   Linux, Bash, AWS, Vagrant, Terraform, Packer, Git, Ansible, Security,
+    Cryptography
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Familiar
+:   Node, MySQL, PostgreSQL, JS, Perl, Ruby, Erlang, LAMP, Nginx, Drupal
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+OS
+:   Ubuntu, Amazon Linux, OS X, CentOS, FreeBSD, OpenBSD, Solaris
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+AWS
+:   API Gateway, ACM, CloudFront, CodeBuild, CodePipeline, CodeDeploy, 
+    DynamoDB, EC2, EFS, ELB, IAM, Lambda, RDS, Route 53, SES, SNS, SQS, S3, VPC
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Certifications
+:   AWS  Certified Developer - Associate \
+    AWS Certified Solutions Architect - Associate \
+    [Certification Transcript](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=T4361X112NQEQ9GY)
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Experience
+----------
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+2013-2017
+: **Infrastructure Engineer**; Gateway Church (Southlake, Texas)
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Lead engineer responsible for diverse back-end systems. Responsible for all the bits
+nobody noticed unless they broke. Implemented cost-saving migrations from bare-metal
+VPS to AWS S3, EC2, Lambda. Responsible for Drupal system maintenance, 
+PCI-DSS compliance, fault-tolerant system design.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+2010-2013
+: **Owner**; Michael W Peterson, Sole Proprietor (Irving, Texas)
 
-* Human Languages:
+Operated consulting business providing system design, compliance audit preparation,
+and ongoing server maintenance for clients. 
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+2009-2010
+: **Programmer**; Genares Worldwide Reservation Systems (Irving, Texas)
 
-* Random tidbit
+Designed and implemented PCI-DSS compliant encryption system to secure payment card data.
+Managed day-to-day operations and on-call emergencies of RedHat VPSes at Rackspace. Managed
+highly available MySQL server cluster.
 
-* Other sort of impressive-sounding thing you did
+2007-2009
+: **Senior System Engineer**; MPOWER Labs (Austin, Texas)
+
+Racked, cabled, provisioned Solaris and Cisco hardware, PDUs, consoles. Brainstormed
+and solved cooling and ventilation issues in server suite. Hardened servers to CIS benchmarks.
+Ensured ongoing PCI-DSS compliance of all in-scope systems.
+
+2006-2007
+: **Programmer**; Genares Worldwide Reservation Systems (Irving, Texas)
+
+Developed real-time hotel reservation systems in Perl and Javascript, both
+front-end booking system and back-end reservation switch. Managed day-to-day
+operations and on-call emergencies of RedHat VPS at ThePlanet.
+
+2004-2006
+: **Foodie / Cheesemonger**; Central Market / H-E-B Grocery Co (Fort Worth, Texas)
+
+Made cheese. Sold cheese. Suggested pairings and introduce customers to new products
+to maximize sales and customer satisfaction. Performed cooking demos. Trained other
+team members on chocolate: varieties, characteristics, tempering techniques.
+Provided customer recommendations across all departments and product lines.
+
+2003-2004
+: **Owner**; Michael W Peterson, Sole Proprietor (Austin, Texas)
+
+Developed and tested WiFi access points to deploy city-wide pay-per-use WiFi service.
+Provided contract development and system administration expertise for contracted customers.
+
+1995-2002
+: **Solutions Architect**; Prodigy Communications (Austin, Texas)
+
+Helped grow dialup/DSL ISP, FlashNet Communications, from a few dozen customers to nearly
+180,000 customers, through an IPO and subsequent acquisition by Prodigy Communications.
+Involved in all aspects of server management, integration, and development.
+
+Education
+---------
+
+1989-1995
+:   **BA, Religious Studies**; Alma College (Alma, Michigan)
+
+    * Senior Thesis: Computer Applications in Archaeology:
+    A Study in Hypermedia
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <michael@mwpeterson.com> • +1 682 559-6893\
+> 1609 Sedgefield St Apt D - Durham NC 27705-3360
