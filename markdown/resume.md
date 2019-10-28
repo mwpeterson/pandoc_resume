@@ -6,24 +6,24 @@ Technical Skills
 --------------------
 
 Core
-:   Kubernetes, Linux, AWS, Docker, Jenkins, Terraform, Ansible, Security, Cryptography
+: Kubernetes, Linux, AWS, Docker, Jenkins, Terraform, Ansible, Security, Cryptography
 
 Familiar
-:   Go, Ruby, MySQL, PostgreSQL, JS, Perl, Ruby, Erlang, LAMP, Nginx 
+: Go, Ruby, MySQL, PostgreSQL, JS, Perl, Ruby, Erlang, LAMP, Nginx 
 
 OS
-:   CoreOS, CentOS, Ubuntu, Amazon Linux, OS X, FreeBSD, OpenBSD, Solaris
+: CoreOS, CentOS, Ubuntu, Amazon Linux, OS X, FreeBSD, OpenBSD, Solaris
 
 Cloud
-:   **AWS**: EC2, CloudWatch, EFS, RDS, Lambda, ELB, VPC, Route 53, S3, SNS, SQS, 
-    IAM, DynamoDB, API Gateway
+: **AWS**: EC2, CloudWatch, EFS, RDS, Lambda, ELB, VPC, Route 53, S3, SNS, SQS, 
+  IAM, DynamoDB, API Gateway
 
-:   **GKE**: GKE, StackDriver, BigQuery
+: **GKE**: GKE, StackDriver, BigQuery
 
 Certifications
-:   AWS  Certified Developer - Associate \
-    AWS Certified Solutions Architect - Associate \
-    [Certification Transcript](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=BXLPZZQ122E1Q1KK)
+: AWS  Certified Developer - Associate \
+  AWS Certified Solutions Architect - Associate \
+  [Certification Transcript](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=BXLPZZQ122E1Q1KK)
 
 Experience
 ----------
