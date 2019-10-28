@@ -6,26 +6,35 @@ Technical Skills
 --------------------
 
 Core
-:   Linux, Bash, AWS, Vagrant, Terraform, Packer, Git, Ansible, Security,
-    Cryptography
+:   Kubernetes, Linux, AWS, Docker, Jenkins, Terraform, Ansible, Security, Cryptography
 
 Familiar
-:   Node, MySQL, PostgreSQL, JS, Perl, Ruby, Erlang, LAMP, Nginx, Drupal
+:   Go, Ruby, MySQL, PostgreSQL, JS, Perl, Ruby, Erlang, LAMP, Nginx 
 
 OS
-:   Ubuntu, Amazon Linux, OS X, CentOS, FreeBSD, OpenBSD, Solaris
+:   CoreOS, CentOS, Ubuntu, Amazon Linux, OS X, FreeBSD, OpenBSD, Solaris
 
-AWS
-:   API Gateway, ACM, CloudFront, CodeBuild, CodePipeline, CodeDeploy, 
-    DynamoDB, EC2, EFS, ELB, IAM, Lambda, RDS, Route 53, SES, SNS, SQS, S3, VPC
+Cloud
+:   **AWS**: EC2, CloudWatch, EFS, RDS, Lambda, ELB, VPC, Route 53, S3, SNS, SQS, 
+    IAM, DynamoDB, API Gateway
+
+:   **GKE**: GKE, StackDriver, BigQuery
 
 Certifications
 :   AWS  Certified Developer - Associate \
     AWS Certified Solutions Architect - Associate \
-    [Certification Transcript](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=T4361X112NQEQ9GY)
+    [Certification Transcript](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=BXLPZZQ122E1Q1KK)
 
 Experience
 ----------
+
+2017-present
+: **DevOps Engineer**; eMinor Inc (Morrisville, North Carolina)
+
+Managed day-to-day operations of multiple Kubernetes clusters. Designed and implemented
+`fluentd` logging system, adding structure to logs and reducing storage costs. Optimized
+Jenkins pipeline to run tests on parallel Kubernetes pods, speeding up deployments and 
+reducing costs. Performed regular security scans and implemented remediations.
 
 2013-2017
 : **Infrastructure Engineer**; Gateway Church (Southlake, Texas)
@@ -40,7 +49,9 @@ PCI-DSS compliance, fault-tolerant system design.
 
 Operated consulting business providing system design, compliance audit preparation,
 and ongoing server maintenance for clients in hotel reservation systems and payment card
-industries. 
+industries. Developed bespoke web-scraping tool to provide near real-time transaction
+history to customers, addressing deficiences in published API and providing client with
+a competitive advantage.
 
 2009-2010
 : **Programmer**; Genares Worldwide Reservation Systems (Irving, Texas)
@@ -68,8 +79,7 @@ operations and on-call emergencies of RedHat VPS at ThePlanet.
 
 Made cheese. Sold cheese. Suggested pairings and introduced customers to new products
 to maximize sales and customer satisfaction. Performed cooking demos. Trained other
-team members on chocolate: varieties, characteristics, tempering techniques.
-Provided customer recommendations across all departments and product lines.
+team members. Provided customer recommendations across all departments and product lines.
 
 2003-2004
 : **Owner**; Michael W Peterson, Sole Proprietor (Austin, Texas)
@@ -96,4 +106,4 @@ Education
 ----
 
 > <michael@mwpeterson.com> • +1 682 559-6893\
-> 1609 Sedgefield St Apt D - Durham NC 27705-3360
+> 1314 Sedgefield St - Durham NC 27705
