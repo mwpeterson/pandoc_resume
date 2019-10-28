@@ -2,7 +2,7 @@ Michael Peterson
 ============
 ----
 
-Technical Experience
+Technical Skills
 --------------------
 
 Core
@@ -39,7 +39,8 @@ PCI-DSS compliance, fault-tolerant system design.
 : **Owner**; Michael W Peterson, Sole Proprietor (Irving, Texas)
 
 Operated consulting business providing system design, compliance audit preparation,
-and ongoing server maintenance for clients. 
+and ongoing server maintenance for clients in hotel reservation systems and payment card
+industries. 
 
 2009-2010
 : **Programmer**; Genares Worldwide Reservation Systems (Irving, Texas)
@@ -65,7 +66,7 @@ operations and on-call emergencies of RedHat VPS at ThePlanet.
 2004-2006
 : **Foodie / Cheesemonger**; Central Market / H-E-B Grocery Co (Fort Worth, Texas)
 
-Made cheese. Sold cheese. Suggested pairings and introduce customers to new products
+Made cheese. Sold cheese. Suggested pairings and introduced customers to new products
 to maximize sales and customer satisfaction. Performed cooking demos. Trained other
 team members on chocolate: varieties, characteristics, tempering techniques.
 Provided customer recommendations across all departments and product lines.
