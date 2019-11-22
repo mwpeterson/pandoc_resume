@@ -31,7 +31,7 @@ Experience
 : **DevOps Engineer**; eMinor Inc (Morrisville, North Carolina)
 
 Managed day-to-day operations of multiple Kubernetes clusters. Designed and implemented
-`fluentd` logging system, adding structure to logs and reducing storage costs. Optimized
+fluentd logging system, adding structure to logs and reducing storage costs. Optimized
 Jenkins pipeline to run tests on parallel Kubernetes pods, speeding up deployments and 
 reducing costs. Performed regular security scans and implemented remediations.
 
