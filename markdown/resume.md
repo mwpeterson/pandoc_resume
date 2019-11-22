@@ -9,7 +9,7 @@ Core
 :   Kubernetes, Linux, AWS, Docker, Jenkins, Terraform, Ansible, Security, Cryptography
 
 Familiar
-:   Go, Ruby, MySQL, PostgreSQL, JS, Perl, Ruby, Erlang, LAMP, Nginx 
+:   Go, GCP, Ruby, MySQL, PostgreSQL, JS, Perl, Ruby, Erlang, Nginx 
 
 OS
 :   CoreOS, CentOS, Ubuntu, Amazon Linux, OS X, FreeBSD, OpenBSD, Solaris
@@ -17,7 +17,7 @@ OS
 Cloud
 :   **AWS**: EC2, CloudWatch, EFS, RDS, Lambda, ELB, VPC, Route 53, S3, SNS, SQS, 
 IAM, DynamoDB, API Gateway
-:   **GKE**: GKE, StackDriver, BigQuery
+:   **GKE**: GKE, IAM, StackDriver, BigQuery
 
 Certifications
 : AWS  Certified Developer - Associate \
